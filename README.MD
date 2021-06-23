@@ -1,0 +1,2 @@
+- Practice with react native and firebase
+- Tested on android
